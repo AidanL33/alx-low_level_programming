@@ -1,0 +1,1 @@
+In this project, I will learn about compliation using gcc, entry points using main and text printing functions in C programming.
