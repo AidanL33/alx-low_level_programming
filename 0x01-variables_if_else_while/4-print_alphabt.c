@@ -15,7 +15,7 @@ for (lo = 'a'; lo <= 'z'; lo++)
 {
 if (lo != 'e' && lo != 'q')
 {
-putchat(lo);
+putchar(lo);
 }
 else
 {
